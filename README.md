@@ -9,6 +9,7 @@
 3. Data Visualization Utilizing Blynk and Node-RED
 4. PCB Design Using Altium
 5. 3D Object Modeling with SolidWorks
+6. Embedded Linux Image Creation with Yocto
 
 ##### Here’s a summary of our project:
 
