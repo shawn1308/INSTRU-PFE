@@ -1,0 +1,1 @@
+C:\Users\shawn\AppData\Local\Arduino15\packages\STMicroelectronics\hardware\stm32\2.9.0\variants\STM32F0xx\F070CBT
