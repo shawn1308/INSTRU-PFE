@@ -12,4 +12,5 @@
 
 ##### Here’s a summary of our project:
 
-![Screenshot from 2025-03-01 20-01-25](./assets/Screenshot from 2025-03-01 20-01-25.png)
+![overview](./assets/overview.png)
+
